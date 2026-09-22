@@ -27,7 +27,8 @@ Sistema con inteligencia artificial para agricultores. Recibe datos del suelo, e
 *Tecnologías: React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Python, FastAPI, PostgreSQL*
 
 ### 🪟 Vidriería ALANYA
-Sitio web para una empresa de vidriería, con diseño responsive.
+### 🪟 Página web de Vidriería
+Sitio web con diseño responsive y tema oscuro. https://raul-alanya.github.io/pagina-web-vidrieria/
 *Tecnologías: HTML, CSS, JavaScript*
 
 
