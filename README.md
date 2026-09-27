@@ -19,22 +19,24 @@ Sistema para digitalizar la biblioteca de un colegio: gestión de libros y prés
 *Tecnologías: PHP, HTML, CSS, Tailwind CSS*
 
 ### 📝 Sistema de Asistencia Escolar
-Sistema para tomar asistencia por curso en un colegio. Registra las faltas y notificaion mediante whatsapp a los padres. Permite gestionar estudiantes, cursos y credenciales, y exportar los registros a Excel, PDF y Word.
-*Tecnologías: Python, Flask, MySQL, HTML, CSS, JavaScript*
+Sistema para tomar asistencia por curso en un colegio. Registra las faltas y notifica por WhatsApp a los padres. Permite gestionar estudiantes, cursos y credenciales, y exportar los registros a Excel, PDF y Word.
+[Ver código](https://github.com/raul-alanya/sistema-asistencia)
+*Tecnologías: Python, Flask, SQLAlchemy, MySQL, HTML (Jinja2), CSS, JavaScript*
 
 ### 🌱 AgroMind
 Sistema con inteligencia artificial para agricultores. Recibe datos del suelo, el cultivo y la temperatura, y recomienda el abono más adecuado y buenas prácticas. También detecta problemas en los datos ingresados y sugiere la mejor época de siembra.
+[Ver código](https://github.com/raul-alanya/agromind-ai)
 *Tecnologías: React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Python, FastAPI, PostgreSQL*
 
-### 🪟 Vidriería ALANYA
 ### 🪟 Página web de Vidriería
-Sitio web con diseño responsive y tema oscuro. https://raul-alanya.github.io/pagina-web-vidrieria/
+Sitio web profesional para una vidriería, con diseño responsive y tema oscuro.
+[Ver sitio en vivo](https://raul-alanya.github.io/pagina-web-vidrieria/) · [Ver código](https://github.com/raul-alanya/pagina-web-vidrieria)
 *Tecnologías: HTML, CSS, JavaScript*
-
 
 ### 💳 Microservicio de pagos con Izipay
 Microservicio para procesar pagos en línea, integrado con la pasarela de pagos Izipay, con documentación de API y despliegue en Docker.
-*Tecnologías: Java, Spring Boot, Spring Data JPA, MySQL, Swagger, Docker*
+[Ver código](https://gitlab.com/ms-pagos/ms-pagos)
+*Tecnologías: Java, Spring Boot, Spring Data JPA, MySQL, Swagger/OpenAPI, Docker*
 
 ## 📫 Contacto
 - LinkedIn: www.linkedin.com/in/rb-alanya
