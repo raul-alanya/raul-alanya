@@ -34,7 +34,7 @@
 <h2 align="center">🛠️ TECNOLOGÍAS</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,spring,flask,nodejs,express,react,html,css,tailwind,vite,mysql,postgres,docker,git,github,gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,spring,nodejs,react,html,css,mysql,postgres,docker,git,gitlab," />
 </p>
 
 ---
