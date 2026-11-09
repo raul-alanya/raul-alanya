@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:38BDF8,100:8B5CF6&height=200&section=header&text=Hola,%20soy%20Ra%C3%BAl&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Un%20p%C3%ADxel%20a%20la%20vez&descSize=22&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:38BDF8,100:1D4ED8&height=200&section=header&text=Hola,%20soy%20Ra%C3%BAl&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Un%20p%C3%ADxel%20a%20la%20vez&descSize=22&descAlignY=60" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+de+software;Desarrollo+web+%26+automatizaci%C3%B3n;Backend+con+Java+y+Spring+Boot;Creando+soluciones+que+importan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desarrollador+de+software;Desarrollo+web+%26+automatizaci%C3%B3n;Backend+con+Java+y+Spring+Boot;Creando+soluciones+que+importan" alt="Typing SVG" />
   </a>
 </div>
 
@@ -101,7 +101,6 @@
       <p><strong>Proyecto académico</strong></p>
     </td>
   </tr>
-  
 </table>
 
 ---
@@ -125,6 +124,6 @@
 </p>
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:38BDF8,100:8B5CF6&height=120&section=footer" width="100%" />
+  <p><i>Un píxel a la vez. 🚀</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:38BDF8,100:1D4ED8&height=120&section=footer" width="100%" />
 </div>
